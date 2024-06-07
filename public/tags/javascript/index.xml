@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Lucas F. Guanabara</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on Lucas F. Guanabara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>printflucasguanabara.github.io (Este Site)</title>
+      <link>http://localhost:1313/projetos/portfolio/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/portfolio/</guid>
+      <description>Meu Portfólio/Blog, desenvolvido utilizando o criador de sites estáticos open-source HUGO, escrito em Go, com o tema Blowfish.</description>
+      
+    </item>
+    
+    <item>
+      <title>MP3 Downloader</title>
+      <link>http://localhost:1313/projetos/mp3/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/mp3/</guid>
+      <description>Este projeto é uma ferramenta simples e eficaz para baixar músicas em formato MP3 diretamente do YouTube.</description>
+      
+    </item>
+    
+    <item>
+      <title>App de Receitas</title>
+      <link>http://localhost:1313/projetos/receitas-app/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/receitas-app/</guid>
+      <description>aplicativo web dedicado a tornar a busca por receitas uma experiência simples e deliciosa. Utilizando como dados a API MealDB!</description>
+      
+    </item>
+    
+    <item>
+      <title>Rest paises</title>
+      <link>http://localhost:1313/projetos/paises/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/paises/</guid>
+      <description>Ferramenta interativa que permite aos usuários explorar informações sobre nações de todo o mundo. Interface simples e intuitiva, você pode obter diversos dados sobre de um país escolhido.</description>
+      
+    </item>
+    
+    <item>
+      <title>AUTOSALES - Página Inicial</title>
+      <link>http://localhost:1313/projetos/autosales/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/autosales/</guid>
+      <description>página inicial Landing page para um aplicativo de compra e venda de automóveis chamado AUTOSALES.</description>
+      
+    </item>
+    
+    <item>
+      <title>APOD NASA</title>
+      <link>http://localhost:1313/projetos/apod/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/apod/</guid>
+      <description>Um projeto que utiliza a API da NASA para trazer diariamente a imagem astronômica do dia. Veja o Website original apod.nasa.gov.</description>
+      
+    </item>
+    
+    <item>
+      <title>59 Games</title>
+      <link>http://localhost:1313/projetos/59games/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/59games/</guid>
+      <description>um projeo inicial de um BLOG dedicado ao universo dos jogos digitais!</description>
+      
+    </item>
+    
+    <item>
+      <title>To-do JS</title>
+      <link>http://localhost:1313/projetos/to-dojs/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/to-dojs/</guid>
+      <description>O projeto é uma aplicação web simples que permite aos usuários criar, gerenciar e acompanhar suas tarefas diárias.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

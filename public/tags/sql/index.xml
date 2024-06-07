@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Lucas F. Guanabara</title>
+    <link>http://localhost:1313/tags/sql/</link>
+    <description>Recent content in SQL on Lucas F. Guanabara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRUD com PHP &amp; SQLite3</title>
+      <link>http://localhost:1313/projetos/phpsqlite/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/phpsqlite/</guid>
+      <description>CRUD utilizando PHP e SQLite3 como banco de dados local.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

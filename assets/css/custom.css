@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Inter", sans-serif;;
+  src: url('/fonts/');
+}
+
+html {
+  font-family: "Inter", sans-serif;
+}
+
+
+.main-menu nav p.text-base {
+  font-size: 1.10rem;
+}
+
+.main-menu #menu-wrapper li > a > p {
+  font-size: 1.2rem;
+}
+
+.main-menu #menu-wrapper li.mt-1 {
+  margin-top: 1.4rem;
+}
+
+

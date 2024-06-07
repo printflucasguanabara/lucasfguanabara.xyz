@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Em Construção on Lucas F. Guanabara</title>
+    <link>http://localhost:1313/tags/em-constru%C3%A7%C3%A3o/</link>
+    <description>Recent content in Em Construção on Lucas F. Guanabara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/em-constru%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APP Notas Web</title>
+      <link>http://localhost:1313/projetos/notasweb/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/notasweb/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

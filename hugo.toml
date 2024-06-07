@@ -1,0 +1,5 @@
+baseURL = 'https://lucasfguanabara.xyz/'
+languageCode = 'pt-BR'
+title = 'Lucas F. Guanabara'
+
+defaultContentLanguage = "pt-br"

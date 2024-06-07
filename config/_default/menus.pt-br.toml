@@ -1,0 +1,54 @@
+# NAV DO PORTFOLIO
+
+[[main]]
+  name = "Agora"
+  pageRef = "Agora"
+  weight = 1
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+
+
+[[main]]
+  name = "Projetos"
+  pageRef = "projetos"
+  weight = 30
+
+[[main]]
+  name = "Sobre"
+  pageRef = "sobre"
+  weight = 90
+
+[[main]]
+  name = "Usos"
+  pageRef = "usos"
+  weight = 90
+
+
+
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/printflucasguanabara"
+  weight = 400
+
+
+# -- Footer --
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Info"
+   pageRef = "info"
+   weight = 20
+
+ [[footer]]
+   name = "Download CV"
+   pageRef = "curriculum"
+   weight = 30

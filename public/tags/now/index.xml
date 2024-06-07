@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Now on Lucas F. Guanabara</title>
+    <link>http://localhost:1313/tags/now/</link>
+    <description>Recent content in Now on Lucas F. Guanabara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/now/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O que estou fazendo agora?</title>
+      <link>http://localhost:1313/agora/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/agora/</guid>
+      <description>Está é uma now page, um lugar para compartilhar no que estou focado no momento.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

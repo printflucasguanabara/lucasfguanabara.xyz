@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MarkDown on Lucas F. Guanabara</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in MarkDown on Lucas F. Guanabara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>printflucasguanabara.github.io (Este Site)</title>
+      <link>http://localhost:1313/projetos/portfolio/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projetos/portfolio/</guid>
+      <description>Meu Portfólio/Blog, desenvolvido utilizando o criador de sites estáticos open-source HUGO, escrito em Go, com o tema Blowfish.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
